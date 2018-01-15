@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Operational Security Standard: Management of Information Technology Security (MITS)" documentID="12328" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><notetoreader>A standard pursuant to the Government Security Policy and the Policy on the Management of Government Information</notetoreader><chapters><chapter anchor="1" title="Part I - Introduction"><section anchor="1.1" title="1. Purpose"><p>This standard defines baseline security requirements that federal departments must fulfill to ensure the security 
+of information and information technology (IT) assets under their control.</p></section><section anchor="1.2" title="2. Scope and Application"><p>The <a href="/pol/doc-eng.aspx?id=12322"><em>Government Security Policy</em></a> states requirements for protecting 
+government assets, including information, and directs the federal departments and agencies to which it applies to have 
+an IT security strategy. The <a href="/pol/doc-eng.aspx?id=12487"><em>Policy on the Management of Government 
+Information</em></a> requires that departments protect information throughout its life cycle. This standard expands 
+upon the requirements of both these policies. It also replaces the <em>Information Technology Security Standard</em> 
+(1995), Chapter 2-3 of the Treasury Board Information and Administrative Management Security Manual.</p><p>The <a href="/pol/doc-eng.aspx?id=12322"><em>Government Security Policy</em></a> defines IT security as the "safeguards 
+to preserve the confidentiality, integrity, availability, intended use and value of electronically stored, processed 
+or transmitted information." For the purposes of this standard, the term 'IT security' will also include the safeguards 
+applied to the assets used to gather, process, receive, display, transmit, reconfigure, scan, store or destroy information 
+electronically.</p></section><section anchor="1.3" title="3. Risk Management Philosophy"><p>This standard establishes requirements for IT security, though the implementation of these requirements is to be 
+managed by departments. Technical documentation, issued pursuant to this standard, will provide further implementation 
+guidance.</p><p>As defined in the <a href="/pol/doc-eng.aspx?id=12322"><em>Government Security Policy</em></a>, <em>baseline security 
+requirements</em> are "mandatory provisions" that achieve consistency across the federal government and provide a minimum 
+level of protection for departments. As part of a department's corporate risk profile, as described by the
+<a href="/pol/doc-eng.aspx?section=text&amp;id=12254"><em>Integrated Risk Management Framework (IRMF)</em></a>, 
+the specific implementation of the baseline requirements and additional safeguards should be determined by risk management.</p></section><section anchor="1.4" title="4. Principles"><h4>Service delivery requires IT security.</h4><p>IT security is an integral part of continuous program and service delivery. To avoid the loss of service and trust 
+that IT security breaches can cause, departments need to view IT security as a business imperative; a "service enabler."</p><p>Although program and service delivery managers may delegate responsibility for IT security to technical experts, 
+they remain accountable to the Deputy Head and are responsible for ensuring the security of the programs and services 
+under their authority.</p><h4>IT security practices need to reflect the changing environment.</h4><p>Information technology continues to rapidly advance in support of greater interconnectedness and improved service 
+delivery. At the same time, the number and potential severity of threats, vulnerabilities and incidents similarly increase. 
+Departments need to be aware of this evolving environment, and understand how to manage their IT security programs 
+in order to respond.</p><h4>The Government of Canada is a single entity.</h4><p>The increased availability of common and shared services can help departments in meeting their security requirements. 
+While this offers the potential for improved efficiency, departments have to recognize that the security decisions 
+they make can impact other organizations.</p><h4>Working together to support IT security.</h4><p>Far more than the sum of the tools used to protect information and systems, an effective IT security program combines 
+people, processes and technologies. Each department's senior managers, program and service delivery managers, security 
+personnel, IT operational personnel, human resources personnel and other stakeholders work together in a concerted 
+manner to achieve the same high level of IT security across the federal government.</p><h4>Decision-making requires continuous risk management.</h4><p>In order to make sound business decisions based upon risk management, departments need to continually be aware of 
+the assets they hold, and their associated sensitivity and criticality. Decisions should be made based upon risk management 
+that recognizes the potential impacts to the department, and to government as a whole.</p></section><section anchor="1.5" title="5. Related Policies and Standards"><p>The Government issues policies, standards and guidelines that address information management, IT and security. This 
+standard should be read in conjunction with the related policies, standards and guidelines. See appendix A for further 
+information.</p></section><section anchor="1.6" title="6. Structure of This Standard"><p>This standard has three major parts, plus appendices. Part I provides general information on IT security. Part II 
+provides direction on the organization and management of IT security within departments. Part III provides direction 
+on technical and operational safeguards.</p></section><section anchor="1.7" title="7. Lead Departments and Agencies"><p>Appendix A of the <a href="/pol/doc-eng.aspx?id=12322"><em>Government Security Policy</em></a> defines the roles 
+and responsibilities of departments and agencies that play a lead role in information and IT security within the Government.</p></section></chapter><chapter anchor="2" title="Part II - Departmental IT Security Organization and Management"><section anchor="2.1" title="8. Introduction"><p>This part of the standard provides direction and guidance on how to organize and manage a departmental IT security 
+program. It covers roles and responsibilities, policy, resources and management controls.</p></section><section anchor="2.2" title="9. Roles and Responsibilities"><p>Although departments differ in how they assign the following roles and responsibilities (e.g. they may use different 
+titles than those indicated), each department must designate individuals to perform the <em>functions</em> noted in 
+this section.</p><h4>9.1 IT Security Coordinator</h4><p>Departments must appoint an IT Security Coordinator with at least a functional reporting relationship to both the 
+departmental Chief Information Officer and the Departmental Security Officer.</p><p>At a minimum, the IT Security Coordinator must</p><ul><li>establish and manage a departmental IT security program as part of a coordinated departmental security program,</li><li>review and recommend approval of departmental IT security policies and standards, and all policies that have 
+	IT security implications,</li><li>ensure review of the IT security related portions of Request for Proposals and other contracting documentation, 
+	including Security Requirements Checklists,</li><li>recommend approval of all contracts for external providers of IT security services,</li><li>work closely with program and service delivery managers to
+		<ul><li>ensure their IT security needs are met,</li><li>provide advice on safeguards,</li><li>advise them of potential impacts of new and existing threats, and</li><li>advise them on the residual risk of a program or service,</li></ul></li><li>monitor departmental compliance with this standard and associated documentation,</li><li>promote IT security in the department,</li><li>establish an effective process to manage IT security incidents, and monitor compliance with it, and</li><li>serve as the department's principal IT security contact.</li></ul><p>The IT Security Coordinator position must be screened to the secret level or higher. In hiring for this position, 
+departments should give preference to individuals with appropriate professional certification.</p><h4>9.2 Senior Management</h4><p>One of the roles of senior management is to foster a "culture of security" across the department.</p><p>When defining the department's priorities, strategic directions, program objectives, budget and personnel allocations, 
+senior management must address IT security requirements. Senior management must also ensure adequate funding for security 
+in IT projects, in accordance with Section 10.12 of the <a href="/pol/doc-eng.aspx?id=12322"><em>Government Security 
+Policy</em></a>.</p><p>Senior management must approve departmental IT security policies, standards and directives.</p><h4>9.3 Departmental Security Officer</h4><p>Section 10.1 of the <a href="/pol/doc-eng.aspx?id=12322"><em>Government Security Policy</em></a> requires departments 
+to appoint a Departmental Security Officer to establish and direct a departmental security program, and provides a 
+list of their responsibilities.</p><p>The Departmental Security Officer and the IT Security Coordinator must ensure that physical, personnel and IT security 
+stakeholders coordinate their efforts to protect information and IT assets and ensure an integrated, balanced approach.</p><h4>9.4 Chief Information Officer</h4><p>The department's Chief Information Officer is responsible for ensuring the effective and efficient management of 
+the department's information and IT assets. Given the potential impact of service delivery failures due to security 
+breaches, the Chief Information Officer and the IT Security Coordinator must work together to ensure that appropriate 
+security measures are applied to all departmental IM and IT assets, activities and processes.</p><h4>9.5 Business Continuity Planning Coordinator</h4><p>The Chief Information Officer, Departmental Security Officer, IT Security Coordinator and the Business Continuity 
+Planning Coordinator must work together to ensure a comprehensive approach to continuous service delivery. Refer to 
+the <em>Operational Security Standard on Business Continuity Planning Program</em>.</p><h4>9.6 Program and Service Delivery Managers</h4><p>On behalf of the department's Deputy Head, program and service delivery managers are responsible for ensuring an 
+appropriate level of security for their programs and services. In designing programs and services, managers will work 
+with departmental security specialists to risk manage their programs or services. Relying on the advice and support 
+of the IT Security Coordinator, managers must determine the IT security requirements of their programs and services, 
+have them accredited, and accept the associated residual risk.</p><p>Managers must ensure that, within their areas of responsibility, the requirements stated in this standard, the
+<a href="/pol/doc-eng.aspx?id=12322"><em>Government Security Policy</em></a> and other related policies, standards 
+and technical documentation, are met.</p><h4>9.7 IT Operational Personnel</h4><p>IT operational personnel includes network or system administrators or managers, help desk personnel, account managers, 
+system security, maintenance and all other IT support personnel. Under the general direction of the IT Security Coordinator 
+and in accordance with departmental priorities, policies and procedures, IT operational personnel must</p><ul><li>follow security procedures and recommend improvements to them,</li><li>respond to security incidents,</li><li>test and install security patches,</li><li>maintain or upgrade security hardware and software,</li><li>monitor systems and logs,</li><li>back up and recover information, and</li><li>manage access privileges and rights.</li></ul><h4>9.8 Other Personnel</h4><p>All personnel must abide by the Government's and the department's IT security policy, procedures and other related 
+documentation. They must report real and suspected security incidents to designated security officials, normally through 
+their immediate supervisor. For the purpose of this standard, personnel include employees, staff, contractors, students, 
+visitors, and Canadian Forces.</p><h4>9.9 COMSEC Custodian</h4><p>Departments that hold classified cryptographic material, controlled cryptographic items or "accountable" publications 
+require a COMSEC (Communications Security) account. These departments must appoint a COMSEC custodian (and an alternate, 
+if required) to account for this material, items and publications in accordance with Communications Security Establishment 
+instructions.</p><h4>9.10 IT Project Managers</h4><p>With guidance from the IT Security Coordinator and IT operational personnel, IT project managers must ensure that 
+project security requirements are met through the development and implementation of technical security specifications.</p></section><section anchor="2.3" title="10. Departmental IT Security Policy"><p>Every department must have a department IT security policy based on the <a href="/pol/doc-eng.aspx?id=12322"><em>Government Security Policy</em></a>, this standard and other related policies, standards and technical documentation. 
+This policy can be a separate document or it can be policy statements within the departmental security policy.</p><p>As a minimum, a departmental IT security policy must</p><ul><li>define the roles and responsibilities of program and service delivery managers, the Chief Information Officer, 
+	departmental legal, privacy specialists and security specialists, and other personnel with regard to IT security</li><li>make the necessary connections with other departmental policies, standards, and legal and regulatory requirements 
+	that relate to IT security (e.g., an acceptable use policy)</li><li>state the requirement for making IT security an integral part of program and service delivery</li><li>state a requirement for seeking funding in support of IT security requirements,</li><li>state requirements for the review and revision of the departmental IT security policy and supporting documentation.</li></ul></section><section anchor="2.4" title="11. IT Security Resources for Projects"><p>In planning new programs, services or major upgrades to existing programs or services, the managers responsible 
+must, at the earliest stage of the funding and approval process, determine the IT security requirements for these programs, 
+services or upgrades and include resource requirements in funding requests.</p></section><section anchor="2.5" title="12. Management Controls"><p>This section describes the management controls that apply to all departmental programs and services. Part III of 
+this standard defines the technical and operational safeguards that support these controls.</p><h4>12.1 Security in the System Development Life Cycle</h4><p>Given the difficulty of implementing cost-effective IT safeguards after a system has been deployed and because technologies 
+and threats continuously change, departments must address security and adjust security requirements throughout all 
+the following stages of the system development life cycle, including at the earliest stages of planning and review:</p><dl><dt><strong>Initiation</strong></dt><dd>An initial Threat and Risk Assessment will provide input for IT security requirements.</dd><dt><strong>Design and Development</strong></dt><dd>An appropriate balance of technical, managerial, operational, physical 
+	and personnel security safeguards will help to meet the requirements determined by the Threat and Risk Assessment.</dd><dt><strong>Implementation</strong></dt><dd>Design documentation, acceptance tests, and certification and accreditation are 
+	to be performed.</dd><dt><strong>Operation</strong></dt><dd>System security is monitored and maintained while Threat and Risk Assessments aid in 
+	the evaluation of modifications that could affect security.</dd><dt><strong>Disposal</strong></dt><dd>In accordance with archival and security standards and guidelines, archive or dispose 
+	of sensitive IT assets and information resident on the system.</dd></dl><p>Given that systems underlie most programs and services, the system development life cycle approach to IT security 
+also applies to the management of programs and services.</p><h4>12.2 Identification and Categorization of Information and IT Assets</h4><p>In accordance with the <em>Operational Security Standard for the Identification and Categorization of Assets,</em> 
+departments must determine the criticality and sensitivity of their information and IT assets with regard to confidentiality, 
+integrity, availability and value.</p><p>This process is key to identifying departmental IT security priorities and aids in determining the graduated application 
+of controls and safeguards in this standard and associated technical documentation.</p><h4>12.3 Security Risk Management</h4><p>Departments must continuously manage the security risks to information and IT assets throughout the life of their 
+programs and services.</p><p>Security risk management is only one element of business or service risk management, as described by the Integrated 
+Risk Management Framework.</p><p>Security risk management activities include Threat and Risk Assessments, audits, Business Impact Analysis, Privacy 
+Impact Assessments, self-assessments, monitoring, security investigations, and Vulnerability Assessments. Given that 
+some of these activities will generate the same or similar risk management information, the program or service delivery 
+manager should avoid duplication by ensuring that these activities are coordinated and that the information garnered 
+from them is shared (in accordance with laws and policies dealing with the collection, use, disclosure and retention 
+of information).</p><h5>12.3.1 Graduation of Controls and Safeguards</h5><p>The graduated application of management controls and technical and operational safeguards should be based upon at 
+least the following:</p><ul><li>The sensitivity and criticality of related program or service assets,</li><li>Threats to asset confidentiality, integrity, availability or value,</li><li>Known vulnerabilities for the program or service,</li><li>Incident data or history,</li><li>Exposure of assets to threats (e.g. exposure to the Internet).</li></ul><p>These activities contribute to the risk management of programs, systems and services.</p><h5>12.3.2 Threat and Risk Assessment</h5><p>A Threat and Risk Assessment aids in the determination of security requirements. Departments must apply security 
+measures above baseline levels when justified by a Threat and Risk Assessment.</p><p>The steps of a Threat and Risk Assessment are to</p><ul><li>identify and categorize information and related assets according to their sensitivity (noting this information 
+	in a "Statement of Sensitivity"),</li><li>assess the threats and system vulnerabilities that could affect the delivery of a program or service,</li><li>determine the level of risk, based on current safeguards and system vulnerabilities, and</li><li>recommend safeguards that will mitigate risk to an acceptable level.</li></ul><p>Departments should coordinate their identification and categorization of assets with related activities such as 
+Privacy Impact Assessments or Business Impact Analysis.</p><p>Departments must conduct a Threat and Risk Assessment for every program, system or service. Threat and Risk Assessments 
+can be short and simple or far more detailed and rigorous, depending on the sensitivity, criticality and complexity 
+of the program, system or service being assessed.</p><p>For programs, systems or services in which the operating environment and security concerns are the same or similar, 
+departments are encouraged to develop "generic" Threat and Risk Assessments that can be reused.</p><h5>12.3.3 Certification and Accreditation</h5><p>The purpose of certification is to verify that the security requirements established for a particular system or 
+service are met and that the controls and safeguards work as intended. The purpose of accreditation is to signify that 
+management has authorized the system or service to operate and has accepted the residual risk of operating the system 
+or service, based on the certification evidence.</p><p>Departments must have their systems or services certified and accredited before approving them for operation. The 
+graduated performance of certification depends upon the quantity and quality of certification evidence required by 
+the accreditation authority. Such evidence can include the results of any applicable Threat and Risk Assessment, a 
+Business Impact Assessment, a Privacy Impact Assessment, a Vulnerability Assessment, security tests and product evaluation, 
+self-assessments, audits and security reviews and related legal or policy assessments that demonstrate conformance 
+to relevant legislation or policy.</p><p>Departments must periodically review the accreditation of systems or services if the systems or services have changed 
+significantly or if warranted due to changes in the risk environment.</p><p>For common systems or services, the Government of Canada Chief Information Officer is the accreditation authority. 
+For systems or services that are specific to a department, the program or service delivery manager is responsible for 
+accreditation. For systems or services shared by two or more organizations, the manager of the program or service is 
+the accreditation authority.</p><h4>12.4 Incident Management</h4><p>Incident management consists of the management of incidents from their discovery to the implementation of appropriate 
+responses. Incident discovery is often implemented through systems that detect incident occurrence. Once detected, 
+departments need to be able to properly identify and respond to the incident, both within their department and as part 
+of a coordinated response across government.</p><p>Incident management is part of an active defence strategy as described in Section 15. Refer to Sections 17 and 18 
+for further information on the management of incidents.</p><h4>12.5 Vulnerability Management</h4><p>Departments must continuously manage vulnerabilities for their programs, systems and services. This management task 
+includes the discovery of vulnerabilities, and the implementation of corresponding solutions. As part of discovery, 
+departments must actively review sources of vulnerability information to determine the potential affect on their programs, 
+systems and services.</p><p>As part of solution management, departments must determine the risk posed by vulnerabilities. Based upon this risk, 
+departments should test the impact of the proposed solution to the vulnerability, and subsequently implement and deploy 
+the solution (e.g. software patch). Departments that discover a system vulnerability for which there is no patch should 
+use another method to mitigate the risk (e.g. configuration change).</p><h5>12.5.1 Vulnerability Assessments</h5><p>A Vulnerability Assessment supports the discovery of vulnerabilities in existing systems. Departments must conduct 
+a Vulnerability Assessment regularly on highly sensitive or highly exposed systems, and on a discretionary basis on 
+other systems.</p><p>Departments must document Vulnerability Assessments, subsequent decisions and remedial actions, e.g. software patches.</p><h5>12.5.2 Patch Management</h5><p>The failure to promptly apply security-related patches can lead to serious IT security incidents. Departments must 
+establish a systematic, documented patch management process to ensure they apply security-related patches in a timely 
+manner. The IT Security Coordinator must ensure that this process is effective and that the department follows it.</p><h4>12.6 Segregation of Responsibilities</h4><p>Assigning all responsibilities related to an IT system or business function to a single individual can make a system 
+vulnerable to undetected abuse or a single point of failure. To ensure that no single person has complete control of 
+an entire IT system or a major operational function, departments must segregate IT responsibilities as much as possible. 
+Individuals who are authorized to conduct sensitive operations must not be allowed to audit these operations.</p><h4>12.7 Contracting</h4><p>Departments need to address IT security requirements in the contracting process. Before issuing a contract, departments 
+must ascertain if IT security is relevant to the goods or services to be provided by the contractor, and if so, account 
+for the security requirements at every stage of contracting.</p><p>Departments must identify individuals within the department to oversee the work of external IT security service 
+providers.</p><p>For more information, refer to the <em>Security and Contracting Management Standard</em>.</p><h4>12.8 Continuity Planning</h4><p>Information management (IM) continuity planning and information technology (IT) continuity planning are integral 
+elements of business continuity planning. One of the objectives of IM continuity planning is to ensure minimal or no 
+interruption in the availability of information assets. One of the objectives of IT continuity planning is to ensure 
+minimal or no interruption in the availability of critical IT services and assets. As part of their business continuity 
+planning, departments must produce and routinely test and revise an IM continuity plan and an IT continuity plan. The 
+Business Continuity Planning Coordinator must collaborate with the IT Security Coordinator throughout business continuity 
+planning.</p><p>For further information, refer to the <em>Business Continuity Planning Program Operational Security Standard</em>.</p><h4>12.9 Sanctions</h4><p>Section 10.16 of the <a href="/pol/doc-eng.aspx?id=12322"><em>Government Security Policy</em></a> requires departments 
+to apply sanctions to IT security incidents when in the opinion of the deputy head there has been misconduct or negligence. 
+For further information refer to the <em>Operational Security Standard on Sanctions</em> and the
+<a href="/pubs_pol/hrpubs/TBM_11B/siglist-eng.asp"><em>Treasury Board Guidelines for Discipline</em></a>.</p><h4>12.10 Sharing and Exchange of Information and IT Assets</h4><p>Departments that share information, IT infrastructure or other IT assets must establish a written security arrangement 
+that defines the terms and conditions of any authorized sharing, and recognize any legal impediments to the sharing. 
+As stated in Section 10.2 of the <a href="/pol/doc-eng.aspx?id=12322"><em>Government Security Policy</em></a>, departments 
+that share information or other assets or use common infrastructure must conform to the security standards defined 
+for that system or infrastructure.</p><p>Departments that hold or use information from outside the Government of Canada (e.g., from industry, provincial 
+government, or international parties) must respect existing agreements or arrangements with the parties that have provided 
+the information.</p><h4>12.11 Departmental IT Security Assessment and Audit</h4><p>Departments need to actively monitor their management practices and controls. As part of this responsibility, departments 
+assess and audit IT security and remedy deficiencies where necessary.</p><h5>12.11.1 Self-Assessment</h5><p>Departments must conduct an annual assessment of their IT security program and practices to monitor compliance with 
+government and departmental security policies and standards using the IT Security Self-Assessment methodology developed 
+by the Treasury Board Secretariat. This methodology will be detailed in subsequent documentation.</p><p>The IT Security Self-Assessment will identify deficiencies and help departments recognize and implement remedial 
+action. Based on the results of this self-assessment, departments must develop or update their IT security action plan 
+and determine the resources required to implement it.</p><p>To help Treasury Board Secretariat assess the state of security across government, departments must submit their 
+IT Security Self-Assessment whenever the Government's Chief Information Officer requests it.</p><h5>12.11.2 Internal Audit</h5><p>Planning for IT security audits must be incorporated into the overall departmental internal audit planning process, 
+and prioritized in accordance with the TBS <em>Policy on Internal Audit</em>, departmental and Government of Canada 
+requirements and the overall departmental risk management strategy and practices. In general, the internal audit planning 
+process assigns priority to the areas of higher materiality and risk, fundamental departmental financial, administrative 
+or control systems and external performance reporting processes.</p><p>The IT Security Coordinator and the Chief Information Officer must be consulted during each phase of any audit of 
+the IT security program, and in all audits of departmental programs or services that have an IT security component. 
+The IT Security Coordinator must prepare a written response to the IT security audit and develop an action plan for 
+senior management approval.</p><h4>12.12 IT Security Awareness</h4><p>Departments must inform and regularly remind personnel of IT security responsibilities, concerns and issues. These 
+personnel include all those with access to the governmental information and IT assets. Departments must provide IT 
+security awareness in their employee orientation training. Departments should incorporate IT security awareness into 
+their broader departmental security awareness program.</p><p>Departments must ensure that all personnel know of the security risks associated with computers at workstations 
+and other equipment (e.g. Personal Digital Assistants - PDAs), given that the security of the information accessed 
+depends primarily on the person using the equipment.</p><p>To increase employee awareness, departments are encouraged to post notices about IT security in all areas where 
+personnel work, and check workstations routinely to ensure personnel are respecting IT security practices</p><h4>12.13 IT Security Training</h4><p>Departments must provide ongoing IT security training to all individuals with significant IT security responsibilities.</p></section></chapter><chapter anchor="3" title="Part III - Technical and operational safeguards"><p>Part III provides direction and guidance on some of the technical and operational safeguards that are available. 
+Departments select a combination of these and potentially other safeguards that together reduce the residual risk to 
+an acceptable level. Additional safeguards are described in other security standards and technical documentation.</p><section anchor="3.1" title="13. Graduated Safeguards"><p>Departments must apply graduated safeguards that are commensurate with the risks to their information and IT assets, 
+with more rigorous safeguards as asset values, service delivery requirements and threats to confidentiality, availability 
+or integrity increase. Factors affecting the graduation level are discussed in Section 12.3.1.</p><p>Departments can reduce overall security costs for IT systems by segregating sensitive information and services and 
+focusing more expensive and restrictive safeguards on a limited array of assets.</p></section><section anchor="3.2" title="14. IT Processes That Support Security"><p>As a foundation for IT security, departments would apply the following general controls.</p><h4>14.1 Configuration Management and Change Control</h4><p>When proposing configuration management or system changes, departments must seek the advice of the IT Security Coordinator 
+where changes could potentially compromise security.</p><h4>14.2 Problem Reporting/Help Desk</h4><p>IT security measures must be incorporated into the routine functions of the Department's problem reporting process 
+or centralized Help Desk facility. The Help Desk is typically the first point of contact for users to report issues 
+such as password problems, data corruption, network performance issues, or service outages. Where the incident involves 
+a possible security breach, documented response procedures must outline how Help Desk personnel will document the event, 
+identify trends, notify the IT Security Coordinator or an incident response team, and instruct the user on how to proceed.</p><h4>14.3 Capacity Planning</h4><p>In support of availability requirements, departments should monitor system and network capacity in order to plan 
+and implement timely capacity changes.</p><h4>14.4 System Support Services</h4><p>Departments must ensure that underlying system services (e.g. trusted time, event logging) are provided to support 
+security services.</p><p>Based on a trusted time source, departments provide an accurate time and date throughout their systems and networks. 
+Trusted time is particularly important in activities as electronic financial transactions and digital signatures, and 
+for audit and investigations.</p></section><section anchor="3.3" title="15. Active Defence Strategy"><p>Departments must adopt an active defence strategy that includes prevention, detection, response and recovery (PDRR). 
+Prevention is the first line of defence. Because prevention safeguards can be defeated, departments have to be able 
+to detect incidents rapidly, respond quickly to contain damage, and recover systems and data in a timely manner.</p><p>Departments must continuously monitor threats and vulnerabilities and, where required, take proactive countermeasures. 
+Departments must take action in response to alerts and advisories from Public Safety and Emergency Preparedness Canada 
+(PSEPC), and consider information from security vendors and external surveillance bodies such as the Computer Emergency 
+Response Team Coordination Center (CERT CC). During increased Readiness Levels or periods of heightened IT threat, 
+departments are required to increase their vigilance by, for example, increasing the operating hours of a departmental 
+Information Protection Centre (IPC) to twenty-four hours a day, seven days a week.</p><p>Departments that have highly sensitive, critical information and IT assets or that depend on complex networks and 
+systems may benefit from establishing a dedicated Information Protection Centre (IPC). An IPC would coordinate active 
+defence within the department, and ensure the department communicates and cooperates with PSEPC and other security 
+organizations.</p></section><section anchor="3.4" title="16. Prevention"><p>Prevention safeguards protect the confidentiality, integrity, and availability of information and IT assets.</p><h4>16.1 Physical Security within the IT Security Environment</h4><p>Physical security measures, e.g., locks and alarm systems, reduce the risk of unauthorized access to information 
+and IT assets. Physical security can also protect information and IT assets from fire, floods, earthquakes, and power 
+failure etc.</p><p>The requirements set out in section 10.11 of the <a href="/pol/doc-eng.aspx?id=12322"><em>Government Security Policy</em></a> 
+and the <em>Operational Security Standard on Physical Security</em> apply to information technology systems, facilities 
+and service spaces. This includes defining security requirements in IT accommodation plans, and using appropriate physical 
+security zones, containers and other security mechanisms to protect IT information and assets.</p><p>Departments must protect portable devices such as laptops, handheld digital devices and cell phones, given the information 
+they contain and their monetary value.</p><p>Departments that need to destroy or dispose of IT media containing classified or protected information must follow 
+the methods and procedures defined in associated technical documentation.</p><h4>16.2 Storage, Disposal and Destruction of IT Media</h4><p>Departments must mark IT media containing classified or protected information in accordance with the <em>Operational 
+Security Standard on the Identification of Assets</em>, and must, in accordance with the <em>Operational Security Standard 
+on Physical Security</em>:</p><ul><li>store backup or sensitive IT media, supporting high or medium availability systems or services, in containers 
+	designed to resist fire or other environmental damage (this applies to both on-site and off-site storage), and</li><li>dispose of IT media containing classified or protected information</li></ul><h4>16.3 Personnel Security in the IT Security Environment</h4><p>The purpose of personnel security measures is to establish trust in personnel and others, who require access to 
+government systems and networks.</p><p>The security requirements for personnel screening in section 10.9 of the GSP and the <em>Operational Security Standard 
+on Security Screening</em> apply to positions and contracts requiring access to information and assets relating to 
+information technology and ITS. In addition, departments must screen, to at least the secret level, all personnel with 
+privileged access to critical systems.</p><h4>16.4 Technical Safeguards</h4><h5>16.4.1 Selection of Security Products</h5><p>Departments should consider the cost, quality, effectiveness, ease-of-use, assurance, and impact on the performance 
+of the department's systems when selecting security products.</p><p>Departments should use evaluated products, especially in systems where the security afforded by that product is 
+assured. Evaluated products should be evaluated based on ISO/IEC 15408, the Common Criteria for Information Technology 
+Security Evaluation.</p><p>Where evaluated products are not selected, departments should validate this choice and provide alternate forms of 
+assurance as part of certification and accreditation.</p><h5>16.4.2 Identification and Authentication</h5><p>Departments must incorporate identification and authentication safeguards in all their networks and systems, according 
+to the level or risk for the network or system. When assigning a unique identifier for users, departments must ensure 
+the proper identification of the individual to whom the identifier is issued.</p><p>Identification and authentication is important because most other security safeguards rely on it. For low-risk environments 
+(e.g., access from an internal network, or systems with low sensitivity information), departments can use simple authentication 
+methods (e.g., password) if passwords are well managed and protected. For higher risk environments (e.g., access from 
+external networks such as the Internet, or systems with high sensitivity information), departments can use stronger 
+authentication methods (e.g. cryptographic-based). If additional security is required, departments can use safeguards 
+such as tokens or biometrics.</p><h5>16.4.3 Authorization and Access Control</h5><p>Departments must restrict IT and information access to individuals who have been screened and authorized; have been 
+identified and authenticated; and have a "need to know."</p><p>Departments must keep access to the minimum required for individuals to perform their duties (i.e., the least-privilege 
+principle), and ensure that they are regularly updated to accurately reflect the current responsibilities of the individual.</p><p>Departments must withdraw access privileges from individuals (including students, contractors, or others with short-term 
+access) who leave the organization, and revise access privileges when individuals move to jobs that don't require the 
+same level of access.</p><h5>16.4.4 Cryptography</h5><p>When properly used, cryptography is an effective means of ensuring confidentiality, integrity, authentication and 
+non-repudiation. Departments must ensure effective key management, including the protection and recovery of cryptographic 
+keys.</p><p>Departments must use encryption or other safeguards endorsed or approved by the Communications Security Establishment 
+(CSE) to protect the electronic communication of classified and Protected C information. Departments should encrypt 
+Protected A and B information, when supported by a Threat and Risk Assessment. However, departments must encrypt protected 
+B information before transmitting it across the Internet or a wireless network.</p><h5>16.4.5 Public Key Infrastructure</h5><p>Public Key Infrastructure (PKI) is one way that departments can fulfill requirements for authentication, confidentiality, 
+integrity and non-repudiation. PKI provides public key encryption and digital signatures as well as processes for managing 
+public keys.</p><p>For further information refer to the <em>PKI Management in the Government of Canada Policy</em> and to the <em>Government 
+of Canada Certificate Policies</em>. The certificate policies define the security requirements for certificates at 
+various assurance levels.</p><h5>16.4.6 Network Security and Perimeter Defence</h5><p>Departments must segregate networks into IT security zones and implement perimeter defence and network security 
+safeguards. The <em>Baseline Security Requirements for IT Security Zones</em> standard describes such an implementation. 
+The use of IT security zones by all departments ensures a consistent, minimum level of protection of data communication 
+networks across the government.</p><p>Departments must strictly control all Public Zone interfaces, including all external uncontrolled networks such 
+as the Internet, at a defined security perimeter. Departments must use perimeter defence safeguards (e.g. firewalls, 
+routers) to mediate all traffic and to protect servers that are accessible from the Internet.</p><h5>16.4.7 Mobile Computing and Teleworking</h5><p>Off-site use of departmental IT assets can introduce additional information security risks. Departments that allow 
+personnel to access departmental information and IT assets, networks and systems from outside their government offices 
+must establish procedures for such use.</p><p>To protect the remote computer, the information it contains, and the communications link, departments should use 
+an effective combination of physical protection measures, access controls, encryption, malicious code protection (e.g. 
+virus scanners), backups, security configuration settings (e.g. operating system controls), identification and authentication 
+safeguards, and network security controls (e.g. a PC firewall).</p><p>Departments must ensure that personnel working off-site are made aware of their security responsibilities, including 
+the sensitivity and criticality of the information and IT assets they access.</p><h5>16.4.8 Wireless Devices</h5><p>The use of wireless devices can introduce additional information security risks. Departments must apply appropriate 
+safeguards and restrict the use of such devices to individuals who have received departmental approval.</p><p>Users must turn off wireless devices with a voice transmission capability when attending a meeting at which sensitive 
+information, above Protected A, is being shared.</p><p>Departments should contact the Communications Security Establishment for further guidance on the use of wireless 
+devices.</p><h5>16.4.9 Emanations Security</h5><p>Most electronic equipment radiates electromagnetic signals that, if intercepted, can compromise sensitive information. 
+Two fundamental approaches to mitigating this risk are source suppression and containment of the information- bearing 
+signals. Collectively, these safeguards are referred to as TEMPEST.</p><p>In Canada, departments should use TEMPEST protection for Top Secret and Protected C information when justified by 
+a Threat and Risk Assessment. At posts abroad, departments should apply TEMPEST protection to all classified information 
+when justified by a Threat and Risk Assessment.</p><h5>16.4.10 Telecommunications Cabling</h5><p>Departments need to protect telecommunications cabling from unauthorized interception and damage. Departments must 
+authorize, control and monitor access to telecommunications wiring, spaces and pathways (i.e., telecommunications rooms, 
+main terminal rooms and other equipment rooms) in a manner appropriate for the sensitivity level of the information 
+being transmitted.</p><p>Departments should ensure additional protection, such as a Red Distribution System (RDS), for the transmission of 
+Protected C and classified information.</p><p>Where physical security safeguards are impractical, departments should use encryption or other methods approved 
+by the Communication Security Establishment.</p><h5>16.4.11 Software Integrity and Security Configuration</h5><p>Safeguards to prevent and detect the integrity of software can help to avoid many potential security incidents.</p><p>Departments should configure their operating systems and application software in accordance with security best practices. 
+Departments must configure their systems to control the use of mobile code (e.g. Javascript).</p><p>Departments must implement safeguards to "harden" software that is exposed to the Internet (e.g. Web servers and 
+their software) or servers supporting sensitive applications. At a minimum, departments should remove or disable unnecessary 
+services and applications and properly configure user authentication.</p><p>Departments should prohibit the use of unauthorized software, and should have a capability to scan networks to detect 
+unauthorized software.</p><p>For more information on software hardening and configuration best practices, refer to the best practices issued 
+by the Communications Security Establishment, the <a href="http://www.nist.gov/">National Institute for Standards and 
+Technology</a>, and the <a href="http://www.cisecurity.org/">Center for Internet Security</a>.</p><h5>16.4.12 Malicious Code</h5><p>IT systems are vulnerable to malicious code such as viruses, Trojan horses, and network worms. E-mail file attachments 
+are among the most common sources of malicious code.</p><p>Departments must install, use and regularly update antivirus software and conduct malicious code scans on all electronic 
+files from external systems. Departments must install new virus definitions as soon as practical. Departments should 
+implement antivirus detection software at several points in the infrastructure including desktop computers, servers, 
+and departmental entry points.</p></section><section anchor="3.5" title="17. Detection"><p>To detect incidents, departments can, subject to applicable laws and relevant policies, use firewalls and routers, 
+audit logs, virus and malicious code detection software, system performance tools, health-monitoring tools, integrity 
+checkers, and host- and network-based intrusion detection systems. The rigor and extent of detection will depend on 
+the level of risk, including the sensitivity (in terms of confidentiality, availability and integrity) and the system 
+exposure.</p><p>To protect information and ensure service delivery departments must continuously monitor system performance to rapidly 
+detect:</p><ul><li>attempts (failed or successful) to gain unauthorized access to a system, or to bypass security mechanisms</li><li>unauthorized probes or scans to identify system vulnerabilities</li><li>unplanned disruption of systems or services</li><li>denial-of-service attacks</li><li>unauthorized changes to system hardware, firmware, or software</li><li>system performance anomalies, and</li><li>known attack signatures.</li></ul><p>At a minimum, departments must include a security audit log function in all IT systems. Departments must incorporate 
+automated, real-time, incident detection tools in high risk systems.</p><p>Refer to supporting technical documentation for additional guidance on detection.</p></section><section anchor="3.6" title="18. Response and Recovery"><h4>18.1 Incident Response Coordination</h4><p>Section 10.12.3 of the <a href="/pol/doc-eng.aspx?id=12322"><em>Government Security Policy</em></a> requires departments 
+to establish mechanisms to respond effectively to IT incidents and exchange incident-related information with designated 
+lead departments in a timely fashion. To do so, departments must appoint an individual or establish a centre to coordinate 
+incident response and act as a point of contact for communication with respect to government-wide incident response. 
+Departments that do not have an Information Protection Centre should assign this function to the IT Security Coordinator.</p><p>The Government of Canada systems and networks should be viewed as a single interconnected entity that requires a 
+coordinated incident response. PSEPC is responsible for coordinating incident response across the federal government 
+and, with other lead agencies, providing technical assistance, advice and information on the handling of IT security 
+incidents.</p><p>Incident handling generally follows five stages:</p><ul><li>Identification - determine the type, severity and cause of the incident(s) (e.g. virus, worm, denial-of-service-attack),</li><li>Response - determine the best approach and take action to contain the damage (e.g. disconnect, disable, block, 
+	or update computer or network configurations),</li><li>Reporting - communicate the incident specifics, including the impact and the response, to PSEPC and departmental 
+	management,</li><li>Recovery - identify an approach to restore and recover systems and implement approved changes to security devices 
+	(e.g. firewall and incident detection rules), and</li><li>Post-Analysis - Assess the incident and recommend changes in processes and procedures, if required.</li></ul><h4>18.2 Incident Identification and Prioritization</h4><p>If monitoring reveals an anomaly, departments must determine whether the cause is a security incident, a hardware 
+or software problem, or an increase in client demand. An IT security incident refers to an adverse event in an information 
+system or network or the threat of the occurrence of such an event. Incidents can include but are not limited to:</p><ul><li>Denial of Service (DoS) - an attack that could prevent the usage of networks, systems, or applications,</li><li>Malicious Code - a virus, worm, Trojan horse, or other code-based malicious entity that infects a host,</li><li>Unauthorized Access - a user who gains access without permission to a network, system, applications, data, 
+	or other resource, and</li><li>Multiple Impacts - a combination of a number of computer events occurring at the same time or a computer event 
+	in coordination with other malicious or accident incidents.</li></ul><p>To analyze IT security incidents effectively, departments must understand the types of IT security incidents that 
+can occur, their potential impact, the technical and operational environment, and service delivery priorities.</p><ul><li>Typically this analysis involves the following steps:</li><li>Determine if an incident has occurred</li><li>Perform an assessment of the severity of impact or potential impact</li><li>Identify the type, cause, and source</li><li>Log the event</li></ul><p>If more than one incident occurs at the same time or is too complex, departments should prioritize and focus on 
+the most significant incident event first. Factors to consider include risks related /to:</p><ul><li>Human life and safety,</li><li>Valuable, sensitive and critical information and assets,</li><li>Disruption to operations or services, and</li><li>Public confidence</li></ul><h4>18.3 Incident Response</h4><p>Departments must develop incident response procedures to follow in order to mitigate damage, contain the cause of 
+the incidents and restore services.</p><p>Given the interconnectivity of the Government of Canada, departments must always, when responding to an IT security 
+incident, consider the impact of their actions or inaction on other federal organizations.</p><p>Departments must maintain operational records that show how incidents were handled, documenting the chain of events 
+during the incident, noting the time when the incident was detected; the actions taken; the rationale for decisions; 
+details of communications; management approvals or direction; and external and internal reports.</p><h4>18.4 Incident Reporting</h4><p>Section 10.15 of the <a href="/pol/doc-eng.aspx?id=12322"><em>Government Security Policy</em></a> requires departments 
+to establish an internal and external incident reporting process. To meet these requirements, departments must</p><ul><li>report incidents and threats to, and share information, subject to applicable legislation and relevant policies, 
+	about the incidents and the effectiveness of their response with PSEPC,</li><li>participate in threat and risk briefings and teleconferences,</li><li>provide PSEPC with current 24/7 contact information for the IT Security Coordinator or designate as well as 
+	a secondary point of contact,</li><li>establish a procedure for notifying the appropriate operational personnel, managers and all affected parties, 
+	keeping contact lists up to date. (e.g., The IT Security Coordinator, the Departmental Security Officer, the Chief 
+	Information Officer, business or system managers),</li><li>notify the appropriate law enforcement agency if the incident appears to be criminal and the Canadian Security 
+	Intelligence Service if the incident has national security implications.</li></ul><p>Where required, PSEPC will assist departments in determining the nature of the incident. Legal advisors should be 
+consulted where there is suspicion of criminal activity.</p><p>In the event that the established primary means of communications is not available, departments should establish 
+an alternative means to communicate incident related information.</p><h4>18.5 Recovery</h4><p>Before reconnecting or restoring services, departments must ensure that all malicious software has been removed 
+and that there is no potential for recurrence or spread.</p><p>Departments must restore essential capabilities within the time constraints and the availability requirements specified 
+in the departmental Business Continuity Plan.</p><p>To be able to recover information, departments must</p><ul><li>back up data regularly</li><li>test backups regularly to ensure that they can be used for recovery</li><li>back up all software and configuration data</li><li>facilitate the restoration of data and services by allowing systems to undo operations and return to an earlier 
+	state (e.g., rollback services)</li><li>test restoration procedures regularly to ensure that they are effective and that they can be completed within 
+	the time allotted for recovery</li><li>determine retention periods for essential business information and archived backups, and</li><li>document, in a memorandum of understanding or other agreement, all arrangements for off-site backup (in case 
+	the off-site backup is with another party).</li></ul><p>Note that system recovery should be conducted in a manner that preserves the integrity of evidence, in the event 
+of a criminal investigation of a security breach, for example.</p><p>Departments may seek support and advice for this process from PSEPC.</p><h4>18.6 Post-Incident Analysis</h4><p>For every severe or major IT security incident that occurs, departments must perform a post-incident analysis which 
+summarizes the impact of the incident, including cost, and identifies</p><ul><li>security deficiencies,</li><li>measures to prevent a similar incident,</li><li>measures to reduce the impact of a recurrence, and</li><li>improvements to incident-handling procedures.</li></ul><p>When requested by PSEPC, departments must share the lessons they learn from their post-incident analysis. By sharing 
+such information across the government, departments can learn from the analyses of other departments and lead agencies.</p><p>Departments should periodically analyze their own security incident statistics to identify recurring problems or 
+patterns of attack and to estimate the overall cost of incidents with a view to improving service delivery.</p></section></chapter><chapter anchor="4" title="Enquiries"><p>For enquiries regarding this policy instrument, please contact the <a href="/cioscripts/cu-cn/contact-eng.asp?who=/sim-gsi/">Security and Identity Management Division</a>.</p></chapter></chapters><appendices><appendix anchor="A" title="Appendix A - Related Legislation, Policies and Standards"><h3>Related Legislation:</h3><ul><li>Access to Information Act</li><li>Canada Evidence Act</li><li>Canada Labour Code</li><li>Canadian Security Intelligence Service Act</li><li>Charter of Rights and Freedoms</li><li>Criminal Code</li><li>Criminal Records Act</li><li>Defence Production Act</li><li>Emergency Preparedness Act</li><li>Financial Administration Act</li><li>Interpretation Act</li><li>National Archives of Canada Act</li><li>National Defence Act</li><li>Security of Information Act</li><li>Personal Information Protection and Electronic Documents Act</li><li>Privacy Act</li><li>Public Service Employment Act</li><li>Public Service Staff Relations Act</li><li>Queen's Regulations and Orders</li><li>Young Offender's Act</li><li>Personal Information Protection and Electronic Documents Act</li><li>Privacy Act</li><li>Statistics Act</li></ul><h3>Related Treasury Board of Canada Policies:</h3><ul><li>Access to Information</li><li>Active Monitoring</li><li>Common Services</li><li>Communications</li><li>Electronic Authorization and Authentication</li><li>Enhanced Management Framework</li><li>Government Security</li><li>Internal Audit</li><li>Management of Government Information</li><li>Management of Information Technology</li><li>Policy, Guidelines and Standards for Public Key Infrastructure Management</li><li>Privacy and Data Protection</li><li>Privacy Impact Assessment</li></ul><p><a href="/pubs_pol/gospubs/TBM_12A/siglist-eng.asp">Other related standards</a> may be found on the Treasury Board Web site.</p></appendix><appendix anchor="B" title="Appendix B - Glossary"><dl><dt><em>Compromise</em></dt><dd>unauthorized disclosure, destruction, removal, modification, interruption or use of assets. [GSP]</dd><dt><em>Critical asset</em></dt><dd>assets supporting a critical service. [GSP]</dd><dt><em>Critical service</em></dt><dd>service whose compromise in terms of availability or integrity would result in a high degree of injury 
+		to the health, safety, security or economic well-being of Canadians, or to the efficient functioning 
+		of the Government of Canada. [GSP]</dd><dt><em>Government information</em></dt><dd>information created, received, used, and maintained regardless of physical form, 
+and information prepared for or produced by the Government of Canada and deemed to be under its control in the conduct 
+of government activities or in pursuance of legal obligations. [MGIP]</dd><dt><em>Graduated safeguards</em></dt><dd>A set of increasingly secure safeguards that respectively reduce risk.</dd><dt><em>Intrusion</em></dt><dd>a type of IT security incident involving unauthorized access to, or activity on, a system or network.</dd><dt><em>Intrusion Detection System (IDS)</em></dt><dd>software that looks for suspicious activity and alerts administrators. [NIST]</dd><dt><em>Information Technology (IT) Security</em></dt><dd>safeguards to preserve the confidentiality, integrity, availability, intended use and value of 
+		electronically stored, processed or transmitted information. [GSP]</dd><dt><em>IT Security incident</em></dt><dd>any unexpected or unwanted event that might cause a compromise of business activities or information security. [ISO 17799]</dd><dt><em>IT Security Zones</em></dt><dd>a networking environment with a well-defined boundary, a security authority and a standard level 
+		of susceptibility to network threats. [ITS Zones]</dd><dt><em>Patch management</em></dt><dd>a component of change management, involving the acquiring, testing, and installing of software fixes on an administered IT system.</dd><dt><em>Risk management</em></dt><dd>a systematic approach to setting the best course of action under uncertainty by identifying, 
+		assessing, understanding, acting on and communicating risk issues. [IRMF]</dd><dt><em>Security risk management</em></dt><dd>a component of an overall risk management process involving the organization 
+and coordination of activities and processes for controlling security risk.</dd><dt><em>Service</em></dt><dd>a collection of one or more systems that perform a useful function in support of business direction.</dd><dt><em>Software integrity</em></dt><dd>the process of developing software with minimal vulnerabilities.</dd><dt><em>System</em></dt><dd>A set of elements such as personnel, physical, environment, safeguards, technology, etc. that 
+are combined together to fulfill a specified purpose or mission. [MG-03]</dd><dt><em>Vulnerability</em></dt><dd>an inadequacy related to security that could permit a threat to cause injury. [GSP]</dd><dt><em>Vulnerability assessment</em></dt><dd>a determination of the existence of system vulnerabilities.</dd></dl></appendix></appendices></doc>

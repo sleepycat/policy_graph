@@ -1,0 +1,15 @@
+{
+  "name": "policy_dom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+   "test": "jest"
+	},
+  "dependencies": {
+    "jsdom": "^11.5.1"
+  },
+  "devDependencies": {
+    "jest": "^22.0.6"
+  }
+}

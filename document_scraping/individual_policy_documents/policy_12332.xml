@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="Security and Contracting Management Standard" documentID="12232" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1. Introduction"><section anchor="1.1" title="1.1 Purpose and scope"><p>This document establishes the operational standard for implementing the Security policy in the contracting process. 
+The standard contains both requirements, indicated by use of the word "must" in sentences appearing in italics, and 
+recommended safeguards, indicated by use of the word "should."</p></section><section anchor="1.2" title="1.2 Roles and responsibilities"><p>Departments are responsible for protecting sensitive information and assets under their control according to the 
+Security policy and its operational standards. This responsibility applies to all phases of the contracting process, 
+including bidding, negotiating, awarding, performance and termination of contracts, as well as to internal government 
+operations.</p><p>Whether a contract is within or outside a department's delegated contracting responsibilities, the department is 
+responsible for identifying sensitive information and assets warranting safeguards.</p><p>The department has a choice for contracts that are within a department's delegated contracting responsibilities 
+and that involve access to sensitive Canadian government information and assets. The department may itself ensure that 
+the contractor meets the appropriate security requirements, or request that Public Works and Government Services Canada 
+(PWGSC) perform this task. Departments should consider using the services of PWGSC when the security requirements are 
+complex and require more than personnel screening. When the department chooses to use PWGSC's services, the two parties 
+should prepare a written agreement on their respective responsibilities, to provide accountability.</p><p>For contracts that are outside a department's delegated contracting responsibilities and that involve access to 
+sensitive information and assets, PWGSC is responsible for ensuring compliance with the appropriate security requirements. 
+In this regard, PWGSC is responsible for assessing threats and risks and for consulting with the department on risk 
+management decisions that may involve either extraordinary risk or expense.</p><p>Where a department is the contracting authority, it is responsible for arranging RCMP reviews of information technology 
+security, as required. Otherwise, Public Works and Government Services Canada arranges these reviews.</p></section><section anchor="1.3" title="1.3 Guidance"><p>Enquiries about this standard should be directed to the responsible officers in departmental headquarters who, in 
+turn, may seek interpretations from the <a href="/cioscripts/cu-cn/contact-eng.asp?who=/sim-gsi/">Security and Identity Management Division</a>.</p><p>Public Works and Government Services Canada provides advice and guidance to departments, contractors and potential 
+contractors on the security requirements of contracts that require access to sensitive information and assets. This 
+includes contracts for goods, services, construction, building services and leases. PWGSC may be contacted at the following 
+address:</p><address>Industrial and Corporate Security Directorate<br />
+Public Works and Government Services Canada<br />
+Place du Portage, 10B3, Phase III<br />
+Ottawa, Ontario<br />
+K1A 0S5</address></section></chapter><chapter anchor="2" title="2. Security and contracting management"><section anchor="2.1" title="2.1 General"><p>Each administrative step involved in developing and managing a contract might have implications for identifying 
+of security requirements. Therefore, departmental security and contract administration policies and procedures should 
+be cross referenced.</p><p>When a department is responsible for contracting security, it must check the status of the contractor with PWGSC 
+and inform PWGSC when the department has determined that the contractor meets the appropriate security requirements. 
+The decision that a contractor meets appropriate security requirements must be documented.</p><p>There may be special circumstances, determined by a threat and risk assessment (TRA) for contracts involving access 
+to designated information and assets, where the step of ensuring that a contractor complies with security requirements 
+before it is granted access may be replaced by a contractual clause. Such a clause should stipulate that security requirements 
+must be met within six months of the contract being awarded. For contracts of less than six months, the clause should 
+stipulate that the security requirements must be met before half the contract period has elapsed. Access may not be 
+granted until the security requirements are met.</p><p>Departmental policies and procedures should specify the conditions for such exceptions, including approval of a 
+TRA by the responsible manager and consultation with departmental security officials.</p><p>Departmental policies and procedures should also provide for scheduled and unscheduled work site inspections, and 
+for the safeguarding of sensitive waste until it is destroyed by an approved method.</p></section><section anchor="2.2" title="2.2 Security requirements checklist"><p>Departments must use the Security Requirements Checklist to define the security requirements for contracts for which 
+PWGSC is the contracting authority. This requirement also applies to call-ups against standing offers, when the standing 
+offer or call-up, or both, contains security requirements.</p><p>The completed Security Requirements Checklist (SRCL) should accompany all requisitions and related contractual documents, 
+including subcontracts, that contain security requirements. It does not replace the necessary clauses in the contract 
+that specify security requirements. PWGSC has developed standard security clauses for use in contracts having different 
+requirements.</p><p>The SRCL should as well be completed when a department retains contracting authority.</p><p>The SRCL can be purchased from PWGSC through departmental purchasing sections or through PWGSC Customer Service.</p></section><section anchor="2.3" title="2.3 International industrial security contracts"><p>As the government contracting authority, PWGSC is responsible for ensuring compliance with international industrial 
+security agreements, arrangements and memoranda of understanding.</p><p>Therefore, departments must process through PWGSC:</p><ul><li>Contracts that afford access to sensitive foreign government information and assets.</li><li>Contracts that afford foreign contractors access to sensitive Canadian government information and assets.</li><li>Contracts that afford foreign or Canadian contractors access to sensitive information and assets as defined 
+	in the documents entitled Identifying INFOSEC and INFOSEC Release.</li></ul><p>See the Industrial Security Manual for information on industrial security.</p></section></chapter></chapters><appendices><appendix anchor="A" title="Appendix A - References"><ul><li>Identifying INFOSEC (NITSM 9/91), Communications Security Establishment</li><li>Industrial Security Manual, Supply and Services Canada, 1992</li><li>INFOSEC Release (NITSM(D) 7/90), Communications Security Establishment</li><li>"Security Requirements Checklist", (TBS/SCT Form number 350-103, NATO Form number 7540-21-909-5042)</li><li>Standard Acquisition Clauses and Conditions Manual (SACC), Supply and Services Canada, 1991</li><li>Treasury Board Contracts directive, Appendix C, "Contracting" volume, Treasury Board Manual</li></ul></appendix></appendices></doc>

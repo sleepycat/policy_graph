@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><doc title="TBITS 06.11: Naming and Addressing for Government Handling Applications - Implementation Criteria" documentID="17260" versionID="1" language="en" space="preserve" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PolicyInstrumentSchema.xsd"><chapters><chapter anchor="1" title="1. Reference"><section anchor="1.1" title="1.1 Name"><ul><li>Canadian Open Systems Application Criteria <acronym title="Canadian Open Systems Application Criteria (COSAC)">(COSAC)</acronym> B 
+  <acronym title="Message Handling Systems (MHS)">MHS</acronym> Naming and
+    Addressing for Government Message Handling Applications</li></ul></section><section anchor="1.2" title="1.2 Identifier"><ul><li><acronym title="Treasury Board Information and Technology Standards (TBITS)">TBITS</acronym>-6.11</li></ul></section><section anchor="1.3" title="1.3 Category"><ul><li>Standard</li></ul></section><section anchor="1.4" title="1.4 Effective date"><ul><li>September 1994</li></ul></section><section anchor="1.5" title="1.5 Approving authority"><ul><li>Treasury Board of Canada <acronym title="Treasury Board of Canada (TB)">(TB)</acronym></li></ul></section><section anchor="1.6" title="1.6 Maintenance agency"><ul><li>Information Technology Management</li><li>Treasury Board Secretariat <acronym title="Treasury Board Secretariat (TBS)">(TBS)</acronym></li></ul></section><section anchor="1.7" title="1.7 Cross index"><ul><li>Federal Government <acronym title="Open Systems Interconnection (OSI)">OSI</acronym> policy (TB 820162 May 1993)</li><li><acronym title="Treasury Board Information and Technology Standards (TBITS)">TBITS</acronym>-1, Open systems interconnection B Basic reference model</li><li><acronym title="Treasury Board Information and Technology Standards (TBITS)">TBITS</acronym>-6.1, Canadian open systems application criteria  Overview<br />
+    (See also Appendix G)</li></ul></section></chapter><chapter anchor="2" title="2. Purpose"><p>The purpose of the <acronym title="Canadian Open Systems Application Criteria (COSAC)">COSAC</acronym> suite of TBITS publications is to provide guidance and
+assistance to departments in complying with the OSI policy and in migrating their systems
+to OSI-conforming systems.</p><p>This profile comprises guidelines for MHS naming and addressing in the government and
+recommends a government-wide process for the registration of MHS names. The establishment
+of government-wide MHS naming and addressing conventions is a prerequisite to wide
+interoperability of departmental messaging systems.</p><p>The profile meets the following requirements:</p><p>Compatibility with X.400 (1984) naming conventions currently used by departments;</p><p>Suitability for future departmental and interdepartmental naming requirements;</p><p>Support for bilingual names;</p><p>Support for other applications such as Electronic Data Interchange and Interlibrary
+Loan and directory services.</p></chapter><chapter anchor="3" title="3. Application"><p>This profile provides information and direction relating to naming and addressing
+conventions for government MHS applications. It defines the standards and parameters to be
+used by departments and agencies of the federal government when developing or procuring
+MHS systems or when considering other systems that have naming and addressing
+requirements.</p></chapter><chapter anchor="4" title="4. Specifications"><p>n/a</p></chapter><chapter anchor="5" title="5. Qualifications"><p>none</p></chapter><chapter anchor="6" title="6. Implementation"><p>n/a</p></chapter><chapter anchor="7" title="7. Government standards working group"><p>Treasury Board OSI Implementation Committee Ad Hoc Working Group on MHS Naming and
+Addressing</p><div class="row"><div class="cols2"><p>Victor Grebler (Chairperson) <acronym title="Public Works and Government Services">PWGSC</acronym><br />
+    Tim Rumball (Secretary) <acronym title="Public Works and Government Services">PWGSC</acronym><br />
+    Linda Bloskie <acronym title="Industry Canada">IC</acronym><br />
+    Brian Bruce <acronym title="Human Resources Development Canada">HRDC</acronym><br />
+    Joël Comeau <acronym title="Transport Canada">TC</acronym><br />
+    Francine Côté F&amp;O<br />
+    Lucie Côté <acronym title="Treasury Board Secretariat">TBS</acronym><br />
+    David Clemis <acronym title="Industry Canada">IC</acronym><br />
+    John Curley <acronym title="National Research Council Canada">NRC</acronym><br />
+    Sharron Curley PWGSC<br />
+    Eric Després PWGSC<br />
+    Ted Farant PWGSC<br />
+    Maj. Douglas Fawcett <acronym title="National Defence">ND</acronym><br />
+    Kalman Fejes PWGSC<br />
+    Ken Foran F&amp;O<br />
+    Roslyn Gill <acronym title="Revenue Canada">RC</acronym><br />
+    Angele Gosselin PWGSC<br />
+    Capt. Louis Gravel ND<br />
+    Jocelyn Guay NRC<br />
+    Michael Harrop TBS<br />
+    Geoff Hawes RC</p></div><div class="cols2"><p>Cooper Hum HRD<br />
+    Mike Jager PWGSC<br />
+    Pauline Johns Jus<br />
+    Maj. Michel Kahn ND<br />
+    Noel Lachance <acronym title="Communications Security Establishment">CSE</acronym><br />
+    Kent Lancaster PWGSC<br />
+    Gerry Lathrope <acronym title="Government of Canada Privy Council Office">PCO</acronym><br />
+    Johanne Lepine <acronym title="Canadian Coast Guard">CCG</acronym><br />
+    Dan MacDonald IC<br />
+    Livio Merlo <acronym title="Atomic Energy Control Board">AECB</acronym><br />
+    Luc Ouimet NRCan<br />
+    Catherine Postma PWGSC<br />
+    Frédéric Ranger <acronym title="Canadian Radio-Television and Telecommunications Commission">CRTC</acronym><br />
+    Pierre Rivard ND<br />
+    Renu Sabharwal <acronym title="Health Canada">HC</acronym><br />
+    Raoul Sodhi <acronym title="Foreign Affairs and International Trade">FAIT</acronym><br />
+    Ihor Stus <acronym title="Royal Canadian Mounted Police">RCMP</acronym><br />
+    Leigh Swain <acronym title="National Library of Canada">NLC</acronym><br />
+    Craig Taylor CCG<br />
+    Robyn Thompson NRC<br />
+    John Whelan <acronym title="Indian and Northern Affairs Canada">INAC</acronym></p></div><br class="clear" /></div></chapter></chapters></doc>

@@ -1,0 +1,374 @@
+
+<!DOCTYPE html>
+
+<!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js" lang="en" dir="ltr">
+<!--<![endif]-->
+    <head>
+        <meta charset="utf-8"/>
+        <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+            wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+        <title>Federal Identity Program Manual - Canada.ca</title>
+        <meta content="width=device-width,initial-scale=1" name="viewport"/>
+        <!-- Load closure template scripts -->
+        <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_24/cdts/compiled/soyutils.js"></script> 
+        <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_24/cdts/compiled/wet-en.js"></script> 
+        <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_24/cdts/compiled/plugins-en.js"></script> 
+        <noscript>
+            <!-- Write closure fall-back static file -->
+            <!--[if gte IE 9 | !IE ]><!-->
+<link href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_22/assets/favicon.ico" rel="icon" type="image/x-icon">
+<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_22/css/theme.min.css">
+<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_22/cdts/cdtsfixes.css">
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<link href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_22/assets/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_22/css/ie8-theme.min.css" />
+<![endif]-->
+<!--[if lte IE 9]><![endif]-->
+<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_22/css/noscript.min.css" />
+        </noscript>
+         <!-- Write closure template -->
+        <script type="text/javascript">
+            document.write(wet.builder.refTop({
+                cdnEnv: "prod",
+                subTheme: "",
+                
+            }));
+        </script>
+
+        <meta name="WebConfigHost" content="www" />
+<link rel="stylesheet" href="./css/pol.css" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<meta name="type" content="Guidelines" />
+<meta name="typeid" content="83" />
+<meta name="status" content="Approved" />
+<meta name="statusid" content="1" />
+<meta name="instrumentversion" content="Current" />
+<meta name="instrumentversionid" content="7" />
+<meta name="plannedactionid" content="266" />
+<meta name="dc.title" content="Federal Identity Program Manual">
+<meta name="gc.description.Long" content="The Federal Identity Program (FIP) Manual establishes the Government of Canada’s corporate identity standards. The standards and guidelines used in conjunction with the FIP policy ensure institutions are consistently identified and clearly recognizable to the public across a wide range of corporate identity applications.">
+<meta name="dc.creator" content="Treasury Board of Canada Secretariat">
+<meta name="gc.institution" content="Government of Canada">
+<meta name="dc.language" title="ISO639-2" content="eng">
+<meta name="dc.audience" content="public">
+<meta name="dc.date.issued" title="W3CDTF" content="2006-03-06">
+<meta name="dc.date.modified" title=" W3CDTF" content="2003-03-07">
+<meta name="dc.spatial.country" content="Canada">
+
+        <!-- GoC.WebTemplate Version ASPX 4.0.24.4 -->
+        <!-- GoC.WebTemplate.Core Version 1.0.6334.28732 -->
+    </head>
+    <body vocab="http://schema.org/" typeof="WebPage">
+                        
+        <div id="def-top">
+            <!-- Write closure fall-back static file -->
+            		<ul id="wb-tphp">
+			<li class="wb-slc"><a class="wb-sl" href="#wb-cont">Skip to main content</a></li>
+			<li class="wb-slc visible-sm visible-md visible-lg"><a class="wb-sl" href="#wb-info">Skip to "About this site"</a></li>
+		</ul>
+		<header role="banner">
+			<div id="wb-bnr" class="container">
+				<div class="row">
+					<div class="brand col-xs-8 col-sm-9 col-md-6">
+						<a href="https://www.canada.ca/en/index.html"><object type="image/svg+xml" tabindex="-1" data="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_22/assets/sig-blk-en.svg"></object><span class="wb-inv"> Government of Canada</span></a>
+					</div>
+					<section class="wb-mb-links col-xs-4 col-sm-3 visible-sm visible-xs" id="wb-glb-mn">
+						<h2>Search and menus</h2>
+						<ul class="list-inline text-right chvrn">
+							<li><a href="#mb-pnl" title="Search and menus" aria-controls="mb-pnl" class="overlay-lnk" role="button"><span class="glyphicon glyphicon-search"><span class="glyphicon glyphicon-th-list"><span class="wb-inv">Search and menus</span></span></span></a></li>
+						</ul>
+						<div id="mb-pnl"></div>
+					</section>
+					<section id="wb-srch" class="col-xs-6 text-right visible-md visible-lg">
+						<h2>Search</h2>
+					<form action="https://recherche-search.gc.ca/rGs/s_r?#wb-land" method="get" name="cse-search-box" role="search" class="form-inline">
+						<div class="form-group">
+							<label for="wb-srch-q" class="wb-inv">Search website</label>
+							<input name="cdn" value="canada" type="hidden">
+							<input name="st" value="s" type="hidden">
+							<input name="num" value="10" type="hidden">
+							<input name="langs" value="en" type="hidden">
+							<input name="st1rt" value="1" type="hidden">
+							<input name="s5bm3ts21rch" value="x" type="hidden">
+							<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="27" maxlength="150" placeholder="Search Canada.ca">
+							<input type="hidden" name="_charset_" value="UTF-8"/>
+							<datalist id="wb-srch-q-ac">
+								<!--[if lte IE 9]><select><![endif]-->
+								<!--[if lte IE 9]></select><![endif]-->
+							</datalist>
+						</div>
+						<div class="form-group submit">
+							<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Search</span></button>
+						</div>
+					</form>
+					</section>
+				</div>
+			</div>
+			<nav role="navigation" id="wb-sm" class="wb-menu visible-md visible-lg" typeof="SiteNavigationElement">
+				<div class="container nvbar">
+					<h2>Topics menu</h2>
+					<div class="row">
+						<ul class="list-inline menu">
+							<li><a href="http://www.esdc.gc.ca/en/jobs/index.page">Jobs</a></li>
+							<li><a href="http://www.cic.gc.ca/english/index.asp">Immigration</a></li>
+							<li><a href="http://travel.gc.ca">Travel</a></li>
+							<li><a href="https://www.canada.ca/en/services/business/index.html">Business</a></li>
+							<li><a href="https://www.canada.ca/en/services/benefits/index.html">Benefits</a></li>
+							<li><a href="http://healthycanadians.gc.ca/index-eng.php">Health</a></li>
+							<li><a href="https://www.canada.ca/en/services/taxes/index.html">Taxes</a></li>
+							<li><a href="https://www.canada.ca/en/services/index.html">More services</a></li>
+						</ul>
+					</div>
+				</div>
+			</nav>
+			<nav role="navigation" id="wb-bc" property="breadcrumb">
+				<h2>You are here:</h2>
+				<div class="container">
+					<div class="row">
+						<ol class="breadcrumb">
+							<li><a href="https://www.canada.ca/en/index.html">Home</a></li>
+						</ol>
+					</div>
+				</div>
+			</nav>
+		</header>            
+        </div>
+        <!-- Write closure template -->
+        <script type="text/javascript">
+            var defTop = document.getElementById("def-top");
+            defTop.outerHTML = wet.builder.top({
+                cdnEnv: "prod",
+                subTheme: "",
+                search: true,
+                lngLinks: [{ lang: 'fr', href: 'doc-fra.aspx?id=12315&section=xml', text: 'Français'}],
+                showPreContent: true,
+                breadcrumbs: [{title: 'Home', href: 'http://www.canada.ca/en/index.html'},{title: 'How government works', href: 'http://www.canada.ca/en/government/system/index.html'},{title: 'Policies, directives, standards and guidelines', href: 'index-eng.aspx'},{title: 'Federal Identity Program Manual', href: 'doc-eng.aspx?id=12315'},],
+            });
+        </script>
+        <main role="main" property="mainContentOfPage" class="container">
+             
+            <!-- the main content -->
+            
+    <h1 id="wb-cont" property="name">Federal Identity Program Manual</h1>
+    <div class="row">
+        <div class="col-md-12">
+            The Federal Identity Program (FIP) Manual establishes the Government of Canada’s corporate identity standards. The standards and guidelines used in conjunction with the FIP policy ensure institutions are consistently identified and clearly recognizable to the public across a wide range of corporate identity applications.
+        </div>
+        <div class="col-md-12 text-right">
+            Date modified: 2003-03-07
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            
+            
+
+            <div class="row mrgn-tp-md">
+                
+
+                <!--googleoff: all-->
+                <section class="col-md-4 pull-right">
+                    
+                    
+                    <details class="pol-sb">
+                        <summary><h2 class="h3"><span class="glyphicon glyphicon-info-sign pull-right"></span>More information</h2></summary>
+
+                        
+                            <p><strong>Directive:</strong></p>
+                            <ul class="lst-spcd margin-top-medium">
+                            
+                                <li><a href="doc-eng.aspx?id=30682">Communications, Directive on the Management of</a></li>
+                            
+                            </ul>
+                        
+                            <p><strong>Policy:</strong></p>
+                            <ul class="lst-spcd margin-top-medium">
+                            
+                                <li><a href="doc-eng.aspx?id=30683">Communications and Federal Identity, Policy on</a></li>
+                            
+                            </ul>
+                        
+                            <p><strong>Terminology:</strong></p>
+                            <ul class="lst-spcd margin-top-medium">
+                                
+                                
+                                    <li><a href="doc-eng.aspx?id=12315&section=glossary">Glossary</a></li>
+                                
+                            </ul>
+                        
+
+                    </details>
+                    
+                    <details class="pol-sb">
+                        <summary><h2 class="h3"><span class="fa fa-sitemap pull-right"></span>Hierarchy</h2></summary>
+                        <div class="tv">
+<ul class="tv-ul">
+<li class="tv-li tv-first" aria-expanded="true">
+<div class="tv-top">
+<span class="tv-sp"></span><a href="#" class="tv-plus tv-action-expand"><img alt="Communications and Federal Identity, Policy on is collapsed. Click to expand." src="./img/tv/plus.png" /></a><a href="#" class="tv-minus tv-action-collapse"><img alt="Communications and Federal Identity, Policy on is expanded. Click to collapse." src="./img/tv/minus.png" /></a>
+<a href="doc-eng.aspx?id=30683" class="tv-in">Communications and Federal Identity, Policy on</a>
+</div>
+<ul class="tv-ul">
+<li class="tv-li tv-last">
+<div class="tv-top">
+<span class="tv-sp"></span>
+<a href="doc-eng.aspx?id=12315" class="tv-in"><strong>Federal Identity Program Manual</strong></a>
+</div>
+</li>
+</ul>
+</li>
+<li class="tv-li tv-last" aria-expanded="true">
+<div class="tv-bot">
+<span class="tv-sp"></span><a href="#" class="tv-plus tv-action-expand"><img alt="Communications, Directive on the Management of is collapsed. Click to expand." src="./img/tv/plus.png" /></a><a href="#" class="tv-minus tv-action-collapse"><img alt="Communications, Directive on the Management of is expanded. Click to collapse." src="./img/tv/minus.png" /></a>
+<a href="doc-eng.aspx?id=30682" class="tv-in">Communications, Directive on the Management of</a>
+</div>
+<ul class="tv-ul">
+<li class="tv-li tv-last">
+<div class="tv-top">
+<span class="tv-sp"></span>
+<a href="doc-eng.aspx?id=12315" class="tv-in"><strong>Federal Identity Program Manual</strong></a>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+
+                        <a class="btn btn-link" href="hierarch-eng.aspx#id12315"><span class="fa fa-sitemap"></span> View complete hierarchy</a>
+                        </div>
+
+                    </details>
+                    
+
+                </section>
+                <!--googleon: all-->
+
+                
+                <section class="col-md-8">
+                    
+                            <div id="ctl00_MainContent_AlternateFormatsNotAvailable">
+                                <h2>Alternate formats</h2>
+                                <span class="text-muted"><em>Not available</em></span>
+                            </div>
+                            
+                        
+                </section>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+
+            <!-- end main content -->
+            <div id="def-preFooter">
+                <!-- Write closure fall-back static file -->
+                			<div class="row pagedetails">
+				<div class="col-sm-6 col-lg-4 mrgn-tp-sm">
+					<a href="https://www.canada.ca/en/report-problem.html" class="btn btn-default btn-block">Report a problem or mistake on this page</a>
+				</div>
+				<div class="datemod col-xs-12 mrgn-tp-lg">
+					<dl id="wb-dtmd">
+						<dt>Date modified:&#32;</dt>
+						<dd><time property="dateModified">2016-09-19</time></dd>
+					</dl>
+				</div>
+			</div>
+            </div>
+            <!-- Write closure template -->
+            <script type="text/javascript">
+                var defPreFooter = document.getElementById("def-preFooter");
+                defPreFooter.outerHTML = wet.builder.preFooter({
+                    cdnEnv: "prod",
+                    dateModified: "2003-03-07",
+                    showPostContent: true,
+                    showFeedback: false,
+                    showShare: [ 'bitly',  'blogger',  'delicious',  'digg',  'diigo',  'email',  'facebook',  'gmail',  'googleplus',  'linkedin',  'myspace',  'pinterest',  'reddit',  'stumbleupon',  'tumblr',  'twitter',  'yahoomail', ],
+                });
+            </script>
+        </main>
+        <div id="def-footer">
+            <!-- Write closure fall-back static file -->
+            		<aside class="gc-nttvs container">
+			<h2>Government of Canada activities and initiatives</h2>
+			<div id="gcwb_prts" class="wb-eqht row">
+				<p class="mrgn-lft-md"><a href="https://www.canada.ca/activities.html">Access Government of Canada activities and initiatives</a></p>
+			</div>
+		</aside>
+		<footer role="contentinfo" id="wb-info">
+			<nav role="navigation" class="container wb-navcurr">
+				<h2 class="wb-inv">About government</h2>
+				<ul class="list-unstyled colcount-sm-2 colcount-md-3">
+					<li><a href="https://www.canada.ca/en/contact.html">Contact us</a></li>
+					<li><a href="https://www.canada.ca/en/government/dept.html">Departments and agencies</a></li>
+					<li><a href="https://www.canada.ca/en/government/publicservice.html">Public service and military</a></li>
+					<li><a href="http://news.gc.ca/">News</a></li>
+					<li><a href="https://www.canada.ca/en/government/system/laws.html">Treaties, laws and regulations</a></li>
+					<li><a href="https://www.canada.ca/en/transparency/reporting.html">Government-wide reporting</a></li>
+					<li><a href="http://pm.gc.ca/eng">Prime Minister</a></li>
+					<li><a href="https://www.canada.ca/en/government/system.html">How government works</a></li>
+					<li><a href="http://open.canada.ca/en/">Open government</a></li>
+				</ul>
+			</nav>
+			<div class="brand">
+				<div class="container">
+					<div class="row">
+						<nav class="col-md-10 ftr-urlt-lnk">
+							<h2 class="wb-inv">About this site</h2>
+							<ul>
+								<li><a href="https://www1.canada.ca/en/contact/feedback.html">Feedback</a></li>
+								<li><a href="https://www.canada.ca/en/social.html">Social media</a></li>
+								<li><a href="https://www.canada.ca/en/mobile.html">Mobile applications</a></li>
+								<li><a href="https://www1.canada.ca/en/newsite.html">About Canada.ca</a></li>
+								<li><a href="https://www.canada.ca/en/transparency/terms.html">Terms and conditions</a></li>
+								<li><a href="https://www.canada.ca/en/transparency/privacy.html">Privacy</a></li>
+							</ul>
+						</nav>
+						<div class="col-xs-6 visible-sm visible-xs tofpg">
+							<a href="#wb-cont">Top of Page <span class="glyphicon glyphicon-chevron-up"></span></a>
+						</div>
+						<div class="col-xs-6 col-md-2 text-right">
+							<object type="image/svg+xml" tabindex="-1" role="img" data="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_22/assets/wmms-blk.svg" aria-label="Symbol of the Government of Canada"></object>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+        </div>
+        <!-- Write closure template -->
+        <script type="text/javascript">
+            var defFooter = document.getElementById("def-footer");
+            defFooter.outerHTML = wet.builder.footer({
+                cdnEnv: "prod",
+                subTheme: "",
+                showFeatures: true,
+                
+            });
+        </script>
+        <!-- Write closure template -->
+            <script type="text/javascript">
+                document.write(wet.builder.refFooter({
+                    cdnEnv: "prod",
+                    exitScript: false,
+                    
+                }));
+            </script>
+        <script src="scripts/ps-1.0.0.js"></script>
+<script>if (!!PS) { PS.Root="/pol"; }</script>
+<script src="scripts/PagePreferences.js"></script>
+<script>PS.InstrumentId=12315;</script>
+<script src="scripts/lh-1.0.0.js"></script>
+<script src="scripts/tv-1.0.3.js"></script>
+<script src="scripts/bootstrap.tooltip-3.3.6.js"></script>
+<script src="scripts/bootstrap.popover-3.3.6.js"></script>
+<script src="scripts/bootstrap.accessibility-plugin.js"></script>
+<script src="scripts/gls-0.0.1.js"></script>
+<!--googleoff: all-->
+<script>GLOSSARY.Terms = [{"id":11700,"definition":"\u003cp\u003eResearch projects that:\u003c/p\u003e\u003cul\u003e\u003cli\u003eSupport legislation, regulations or litigation;\u003c/li\u003e\u003cli\u003eSupport government or departmental priorities;\u003c/li\u003e\u003cli\u003eAddress the development of new government policies, programs, services or initiatives;\u003c/li\u003e\u003cli\u003eTouch on issues that are of high public interest or sensitivity; or\u003c/li\u003e\u003cli\u003eRelate to any other important or high-risk issue.\u003c/li\u003e\u003c/ul\u003e","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"significant non-contracted public opinion research projects","nameTranslation":"projets de recherche sur l\u0027opinion publique d\u0027importance qui ne font pas l\u0027objet d\u0027un marché"},{"id":11678,"definition":"A database managed by Public Services and Procurement Canada that contains project information and expenditures on government advertising activities.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"Advertising Management Information System (AdMIS)","nameTranslation":"Système d\u0027information sur la gestion de la publicité (GESPUB)"},{"id":11694,"definition":"The Canada wordmark, the flag symbol, and the arms of Canada.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"official symbols of the Government of Canada","nameTranslation":"symboles officiels du gouvernement du Canada"},{"id":11668,"definition":"The corporate identity of the Government of Canada that ensures that federal departments, programs, services, assets and activities are clearly identified to the public in Canada and abroad through the consistent use of departmental titles and symbols.","instrumentId":30683,"instrumentTitle":"Communications and Federal Identity, Policy on","name":"Federal Identity Program (FIP) ( (PFIM))","nameTranslation":"Programme fédéral de l\u0027image de marque"},{"id":11696,"definition":"Joint activities or transactions that involve another government, a company, an organization, a group or an individual that has shared or associated objectives, with a written agreement to combine financial or in-kind inputs.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"partnering/collaborative arrangements","nameTranslation":"partenariats (partenaire) ou ententes de collaboration"},{"id":11701,"definition":"A mandatory tool for departments to register and manage official social media accounts on various platforms through a single interface.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"social media platform management tool","nameTranslation":"outil de gestion de plateforme de médias sociaux"},{"id":11702,"definition":"A digital platform that allows users to browse and download apps that are developed by third-party providers.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"third-party distribution platform","nameTranslation":"plateforme de distribution par des tiers"},{"id":11687,"definition":"The corporate identity of the Government of Canada that ensures that departments, programs, services, assets and activities are clearly identified to the public in Canada and abroad through the consistent use of departmental titles and symbols.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"Federal Identity Program (FIP)","nameTranslation":"Programme fédéral de l\u0027image de marque(PFIM)"},{"id":11693,"definition":"An account on a social media platform used for official Government of Canada purposes such as communication, service delivery, collaboration and other purposes within the scope of an department\u0027s mandate.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"official social media account","nameTranslation":"compte de médias sociaux officiel"},{"id":11692,"definition":"\u003cp\u003eIn the context of all Government of Canada communications products and activities, \"non-partisan\" means:\u003c/p\u003e\u003cul\u003e\u003cli\u003eObjective, factual, and explanatory;\u003c/li\u003e\u003cli\u003eFree from political party slogans, images, identifiers; bias; designation; or affiliation;\u003c/li\u003e\u003cli\u003eThe primary colour associated with the governing party is not used in a dominant way, unless an item is commonly depicted in that colour; and\u003c/li\u003e\u003cli\u003eAdvertising is devoid of any name, voice or image of a minister, member of Parliament or senator.\u003c/li\u003e\u003c/ul\u003e","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"non-partisan communications","nameTranslation":"communications non partisanes"},{"id":11690,"definition":"The inventory of the Government of Canada\u0027s mobile applications.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"mobile application gallery","nameTranslation":"répertoire d\u0027applications mobiles"},{"id":11699,"definition":"\u003cp\u003eThe planned, one-way systematic collection, by or for the Government of Canada, of opinion-based information of any target audience using quantitative or qualitative methods and techniques such as surveys or focus groups. Public opinion research provides insight and supports decision making. The process used for gathering information usually assumes an expectation and guarantee of anonymity for respondents.\u003c/p\u003e\u003cp\u003ePublic opinion research includes information collected from the public, including private individuals and representatives of businesses or other entities. It involves activities such as the design and testing of collection methods and instruments, data collection, data entry, data coding, and primary data analysis.\u003c/p\u003e\u003cp\u003eThe following are not considered public opinion research for the purposes of the Policy on Communications and Federal Identity and its supporting instruments:\u003c/p\u003e\u003cul\u003e\u003cli\u003eConsultations or engagement activities;\u003c/li\u003e\u003cli\u003eProgram evaluation projects included in the Departmental Evaluation Plan;\u003c/li\u003e\u003cli\u003eUsability testing;\u003c/li\u003e\u003cli\u003eBehavioural or factual research;\u003c/li\u003e\u003cli\u003eLiterature reviews or reviews of secondary sources;\u003c/li\u003e\u003cli\u003eSecondary data analysis;\u003c/li\u003e\u003cli\u003eFactual verification of performance of services or delivery of goods in contract situations;\u003c/li\u003e\u003cli\u003eEmployee exit interviews;\u003c/li\u003e\u003cli\u003e360-degree employee-manager reviews; and\u003c/li\u003e\u003cli\u003eAssessment of training or information sessions, either in person or online.\u003c/li\u003e\u003c/ul\u003e","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"public opinion research","nameTranslation":"recherche sur l\u0027opinion publique"},{"id":11677,"definition":"Activities related to producing and placing advertising, including campaign planning, creative development, pretesting, production, media planning, placement of advertising and evaluation.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"advertising activities","nameTranslation":"activités de publicité"},{"id":11683,"definition":"Any product produced by or on behalf of the Government of Canada that informs the public about policies, programs, services and initiatives, as well as dangers or risks to health, safety or the environment. Communications products can also aim to explain the rights, entitlements and obligations of individuals. Communications products can be developed for a variety of media, including print, electronic and recording.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"communications product","nameTranslation":"produit de communication"},{"id":11689,"definition":"The senior executive who is responsible for the management of the department\u0027s corporate identity and communications products and activities.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"head of communications","nameTranslation":"chef des communications"},{"id":11691,"definition":"The purchase of advertising time or space, e.g., for television, radio, newspapers, magazines, websites, cinemas or out-of-home media.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"media buy or placement","nameTranslation":"achat ou placement dans les médias"},{"id":11673,"definition":"Writing that is easily understandable on first reading. Communicating in plain language may involve writing to a specific level of literacy or education.","instrumentId":30683,"instrumentTitle":"Communications and Federal Identity, Policy on","name":"plain language writing","nameTranslation":"rédaction en langage clair et simple"},{"id":11681,"definition":"See ADV number.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"authorization number","nameTranslation":"numéro d\u0027autorisation"},{"id":11688,"definition":"The range of items, intended for internal and external use, that bear the Government of Canada signature or departmental signature and the Canada wordmark, including but not limited to stationery, forms, signage, websites and other electronic communications, communications products, personnel identification and motor vehicles.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"field of application","nameTranslation":"domaine d\u0027application"},{"id":11667,"definition":"The combination of the department\u0027s approved English and French applied title and the flag symbol or the arms of Canada.","instrumentId":30683,"instrumentTitle":"Communications and Federal Identity, Policy on","name":"corporate signature","nameTranslation":"signature visuelle"},{"id":11685,"definition":"The unified manner in which an organization, company or public sector entity identifies its presence and activities. A corporate identity can include elements such as nomenclature, symbols, colour, typography and standards for graphics. The Government of Canada\u0027s corporate identity is prescribed by the Federal Identity Program.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"corporate identity","nameTranslation":"image de marque"},{"id":11695,"definition":"Printing communications products, whether using in-house printers or contracted printing firms, when requested by an individual or as the need arises. On-demand printing does not require warehousing.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"on-demand printing","nameTranslation":"impression sur demande"},{"id":11705,"definition":"A contractual document, issued by the Communication Procurement Directorate of Public Services and Procurement Canada that instructs the agency of record to purchase advertising media space, time or both from media suppliers.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"work authorization","nameTranslation":"autorisation de travail"},{"id":11698,"definition":"See consultations","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"public engagement","nameTranslation":"activités de mobilisation du public"},{"id":11680,"definition":"A private sector supplier, selected through a competitive process and under contract with the Government of Canada, that negotiates, consolidates, purchases and verifies advertising media time and space for the Government of Canada.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"agency of record","nameTranslation":"agence de coordination"},{"id":11682,"definition":"The global identifier of the Government of Canada, which is composed of a graphically modified typeface and the flag symbol.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"Canada wordmark","nameTranslation":"mot-symbole « Canada »"},{"id":11703,"definition":"\u003cp\u003eA predetermined number of printed communications products, including publications, that require warehousing. Departments undertake volume printing only in the following situations:\u003c/p\u003e\u003col class=\"lst-lwr-alph\"\u003e\u003cli\u003eA printed version is specifically required under legislation, regulations or parliamentary procedures;\u003c/li\u003e\u003cli\u003eThe product informs the public about key information related to health, safety or security issues;\u003c/li\u003e\u003cli\u003eA printed version is required to meet the specific needs of the target audience;\u003c/li\u003e\u003cli\u003eThe size or format of the product does not allow for printing using commonly available printers;\u003c/li\u003e\u003cli\u003eAn existing contract for printing, warehousing or distribution services, put in place prior to the \u003ca href=\"/pol/doc-eng.aspx?id=27167\"\u003eProcedures for Publishing\u003c/a\u003e taking effect, cannot be cancelled, or the cost of cancelling the contract exceeds the benefits; or\u003c/li\u003e\u003cli\u003eThe minister or the person designated in Schedule VI (Part III, Column II) of the Financial Administration Act requests the printing.\u003c/li\u003e\u003c/ol\u003e","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"volume printing","nameTranslation":"impression de masse"},{"id":11664,"definition":"Formally known as the Arms of Her Majesty The Queen in Right of Canada or the Arms of His/Her Majesty in Right of Canada, and also referred to as the Canadian coat of arms and the royal arms of Canada. The arms of Canada is an official symbol of the Government of Canada. A stylized one-colour rendering of the arms of Canada is used to identify departments whose heads report directly to Parliament, institutions that have a quasi-judicial function, ambassadors, heads of consulates or missions, and the Clerk of the Privy Council.","instrumentId":30683,"instrumentTitle":"Communications and Federal Identity, Policy on","name":"arms of Canada","nameTranslation":"armoiries du Canada"},{"id":11663,"definition":"The official name of a department that is used in communications with the public and in its corporate signature.","instrumentId":30683,"instrumentTitle":"Communications and Federal Identity, Policy on","name":"applied title","nameTranslation":"titre d\u0027usage"},{"id":11684,"definition":"A two-way process that seeks direct participation from the public or specific stakeholders on a range of issues to inform government decisions about policies, programs, services, and legislative and regulatory initiatives, whether in person or online.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"consultations","nameTranslation":"activités de consultation"},{"id":11704,"definition":"The user-centric, mobile-optimized website that organizes Government of Canada content by themes. The Government of Canada web presence is commonly known as Canada.ca.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"web presence","nameTranslation":"présence Web"},{"id":11662,"definition":"Government of Canada advertising is defined as any message conveyed in Canada or abroad and paid for by the government for placement in media, including but not limited to newspapers, television, radio, cinema, billboards and other out-of-home media, mobile devices, the Internet, and any other digital medium.","instrumentId":30683,"instrumentTitle":"Communications and Federal Identity, Policy on","name":"advertising","nameTranslation":"publicité"},{"id":11669,"definition":"The flag symbol is a graphically modified version of the National Flag of Canada. The flag symbol is protected under the laws of Canada, and internationally under the Paris Convention for the Protection of Industrial Property.","instrumentId":30683,"instrumentTitle":"Communications and Federal Identity, Policy on","name":"flag symbol","nameTranslation":"symbole du drapeau"},{"id":11679,"definition":"A media placement authorization number issued by the Advertising Coordination and Partnerships Directorate of Public Services and Procurement Canada (PSPC) to a department as confirmation that its advertising creative and media plan comply with government legislation, policies and standards. The ADV number authorizes the Communication Procurement Directorate of PSPC to issue a work authorization to the agency of record to implement the media plan. The ADV number is also referred to as an authorization number.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"ADV number","nameTranslation":"numéro PUB"},{"id":11697,"definition":"All audiences, including employees of the Government of Canada and Canadians living or travelling abroad, who require information about Government of Canada decisions, policies, programs and services.","instrumentId":30682,"instrumentTitle":"Communications, Directive on the Management of","name":"public","nameTranslation":"public"},{"id":11670,"definition":"A graphic mark, emblem or symbol adopted by an individual or organization to aid or promote recognition. Logos can be purely graphic or can feature the name of the organization in a special typeface (e.g., logotype).","instrumentId":30683,"instrumentTitle":"Communications and Federal Identity, Policy on","name":"logo","nameTranslation":"logo"}]</script>
+<!--googleon: all-->
+<script type="text/javascript" src="./scripts/ga/googleanalytics.js"></script>
+<noscript><iframe title="Google Tag Manager Canada" src="//www.googletagmanager.com/ns.html?id=GTM-MG4LMJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MG4LMJ');</script>
+
+    </body>
+</html>
+
